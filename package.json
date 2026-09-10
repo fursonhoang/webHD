@@ -2,11 +2,11 @@
   "name": "my-html-project",
   "version": "1.0.0",
   "description": "Dự án HTML chuẩn",
-  "main": "index.html",
+  "main": "login.html",
   "scripts": {
-    "start": "node server.js",
-    "build": "echo Static site - no build required",
-    "dev": "node server.js"
+    "start": "live-server",
+    "build": "echo \"Build script - thêm build tool của bạn\"",
+    "dev": "echo \"Dev script - thêm dev tool của bạn\""
   },
   "keywords": [
     "html",
